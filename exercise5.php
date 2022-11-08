@@ -58,7 +58,7 @@
         echo "Today is $today";
 
         $time = date("h:i:sp");
-        echo "<br> $time";
+        echo "<br> The time is $time";
         ?>
 
 
