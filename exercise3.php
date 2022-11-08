@@ -38,7 +38,7 @@
             echo $Physics_grade . "<br>";
             echo $English_grade . "<br>";
             echo $sum . "<br>";
-            echo $average . "<br>";;
+            echo $average . "<br>";
         }
         marks(8, 7, 10)
         ?>
